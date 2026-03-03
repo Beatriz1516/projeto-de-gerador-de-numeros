@@ -1,0 +1,2 @@
+Nesse projeto é colocado em prática conceitos de ligação de repositórios (remoto e local), git na IDE e modificações no projeto pelo terminal integrado.
+Esse projeto tem como instrutor as aulas da Alura, no curso "Git e GitHub: compartilhando e colaborando em projetos'.
